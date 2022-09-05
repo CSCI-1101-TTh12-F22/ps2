@@ -65,19 +65,19 @@ assiduouslyassiduously
 * The date.
 * A statement saying "This code is my own work. I did not share my code or look at the code of another student."
 
-3. The first line of the program program should use `input()` to ask the user for his height in inches and save it as a variable `H`. *(If you don't know how to do this, please see Lab 1! Don't forget that `input` will make a string, but you will need an integer to do calculations.)*
+3. The first line of the program program should use `input()` to ask the user for his height in inches and save it as a variable `H`. *(If you don't know how to do this, please see Lab 1! Don't forget that `input` will make a string, but you will need an integer or float to do calculations.)*
 
 4. The second line of the program program should use `input()` ask the user for his weight in pounds and save it as a variable `W`.
 
-5. Next write a line of code that calculates BSA according to the following forumula. Do this using only the mathematical operators. Do not import any libraries.
+5. Next write a line of code that calculates BSA according to the following forumula. Do this using only the mathematical operators and parentheses, as needed. Do not import any libraries.
 
-<img src="formula.png" width=300>
+<img src="formula.png" width=200>
 
-6. Using `print` report to the user their BSA and tell them they look great.
+6. Using `print()`, report to the user their BSA and tell them they look great.
 
 7. Run your program.
 
-Here's a bunch of examples of what the output of your script should look like. (Remember that you have to enter something when it asks a question!)
+Here's some examples of what the output of your script should look like. (Remember that you have to enter something when it asks a question!)
 
 ```
 ========= RESTART: /Users/emilypx/Desktop/CS1-F22/ProblemSets/part2.py =========
